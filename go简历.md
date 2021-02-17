@@ -28,9 +28,6 @@
 
  - 男，1995 年出生
  - 求职意向：golang 研发工程师
- - 工作经验：4 年
- - 当前薪资：13k
- - 期望薪资：15k（可以谈）
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
